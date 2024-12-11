@@ -15,7 +15,7 @@
     "@capacitor/cli": "^1.0.0-alpha.38",
     "@capacitor/core": "^1.0.0-alpha.38",
     "@vue/cli-plugin-pwa": "^4.1.2",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.0.0-rc.19",
     "socket.io-client": "^2.1.1",
     "vue": "^2.6.10",
